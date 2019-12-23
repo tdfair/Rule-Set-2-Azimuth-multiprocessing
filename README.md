@@ -16,6 +16,15 @@ Add scores back to DataFame:
 
 `random_30['Azimuth'] = Azimuth['Azimuth_parallel'].tolist()`
 
+## Dependencies
+
+* Python 2.7
+* Pandas
+* Numpy
+* multiprocessing
+* scikit-learn 0.17.1
+* Microsoft Azimuth, `pip install azimuth`
+
 ## Source
 
 **Microsoft Azimuth:** https://github.com/MicrosoftResearch/Azimuth
